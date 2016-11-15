@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9D7A81E8-916D-471E-BF58-17CE98A9653F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoinTime.iOS/Content/levels/level9.tmx">
+    <Files>
+      <File FileName="CoinTime.iOS/Content/levels/level8.tmx" Line="1" Column="1" />
+      <File FileName="CoinTime.iOS/Content/levels/level9.tmx" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CoinTime.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.CoinTime.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53DED0AD-A977-4CC3-A936-95D56F006E7A" />
+</Properties>
