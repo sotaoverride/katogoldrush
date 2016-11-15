@@ -1,0 +1,2 @@
+# katogoldrush
+cocosharp game
